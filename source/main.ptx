@@ -6,7 +6,7 @@
 
   <book xml:id="my-great-book">
     <title>Little Book of Limits</title>
-    <subtitle>An intuitive approach to limits and continuity</subtitle>
+    <subtitle>An Intuitive Approach to Limits and Continuity</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
