@@ -5,8 +5,8 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>Sean's Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>Little Book of Limits</title>
+    <subtitle>An intuitive approach to limits and continuity</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
